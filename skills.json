@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "Spring Boot",
+        "icon": "https://img.icons8.com/color/48/000000/spring-logo.png"
+    },
+    {
+        "name": "Spring Data JPA",
+        "icon": "https://img.icons8.com/color/48/000000/hibernate.png"
+    },
+    {
+        "name": "REST APIs",
+        "icon": "https://img.icons8.com/fluency/48/api-settings.png"
+    },
+    {
+        "name": "Microservices",
+        "icon": "https://img.icons8.com/color/48/000000/microservices.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+    },
+    {
+        "name": "Postman",
+        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "Bitbucket",
+        "icon": "https://img.icons8.com/color/48/000000/bitbucket.png"
+    },
+    {
+        "name": "Thymeleaf",
+        "icon": "https://www.thymeleaf.org/images/thymeleaf.png"
+    },
+    {
+        "name": "Maven",
+        "icon": "https://icons8.com/icon/fOhLNqGJsUbJ/apache-kafka"
+    },
+    {
+        "name": "Gradle",
+        "icon": "https://img.icons8.com/color/48/000000/gradle.png"
+    },
+    {
+        "name": "IntelliJ IDEA",
+        "icon": "https://img.icons8.com/color/48/000000/intellij-idea.png"
+    }
+]
