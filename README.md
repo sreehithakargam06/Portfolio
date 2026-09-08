@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This website showcases my skills, projects, ed
 
 ## 🚀 Live Demo
 
-🔗 **Portfolio:** https://sreehithakargam06.github.io/Portfolio/
+🔗 **Portfolio:** https://sreehithakargam6.github.io/Portfolio/
 
 ## 📌 About Me
 
@@ -55,7 +55,7 @@ Portfolio/
 Clone the repository:
 
 ```bash
-git clone https://github.com/sreehithakargam06/Portfolio.git
+git clone https://github.com/sreehithakargam6/Portfolio.git
 ```
 
 Navigate to the project:
