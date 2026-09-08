@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This website showcases my skills, projects, ed
 
 ## 🚀 Live Demo
 
-🔗 **Portfolio:** https://sreehithakargam6.github.io/Portfolio/
+🔗 **Portfolio:** [https://sreehithakargam6.github.io/Portfolio/](https://sreehithakargam06.github.io/Portfolio/)
 
 ## 📌 About Me
 
